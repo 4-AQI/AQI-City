@@ -1,0 +1,10 @@
+﻿Country,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category
+Russian Federation,Praskoveya,51,Moderate,1,Good,36,Good,0,Good,51,Moderate
+Brazil,Presidente Dutra,41,Good,1,Good,5,Good,1,Good,41,Good
+Italy,Priolo Gargallo,66,Moderate,1,Good,39,Good,2,Good,66,Moderate
+Poland,Przasnysz,34,Good,1,Good,34,Good,0,Good,20,Good
+France,Punaauia,22,Good,0,Good,22,Good,0,Good,6,Good
+United States of America,Punta Gorda,54,Moderate,1,Good,14,Good,11,Good,54,Moderate
+Germany,Puttlingen,62,Moderate,1,Good,35,Good,3,Good,62,Moderate
+Belgium,Puurs,64,Moderate,1,Good,29,Good,7,Good,64,Moderate
+Russian Federation,Pyatigorsk,54,Moderate,1,Good,41,Good,1,Good,54,Moderate
